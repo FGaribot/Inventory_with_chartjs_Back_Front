@@ -13,3 +13,7 @@ npm install
 # serve with hot reload at localhost:8080 and localhost:8081
 npm run dev
 ```
+
+### Image
+
+!alt[Chart Image](https://github.com/FGaribot/Inventory_with_chartjs_Back_Front/blob/master/Chart-Image.png?raw=true)
