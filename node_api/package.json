@@ -1,0 +1,23 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "Insert and Extract information from a JSON file",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Node",
+    "API",
+    "JSON"
+  ],
+  "author": "Fgaribot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
