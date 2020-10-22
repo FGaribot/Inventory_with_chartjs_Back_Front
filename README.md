@@ -4,7 +4,9 @@ Summary: This project is meant to make a Front with a Back and introduce data st
 
 ### Usage
 
-```bash in both projects Front and Back
+In both projects Front and Back you have to
+
+```bash
 # install dependencies
 npm install
 
