@@ -16,4 +16,4 @@ npm run dev
 
 ### Image
 
-!alt[Chart Image](https://github.com/FGaribot/Inventory_with_chartjs_Back_Front/blob/master/Chart-Image.png?raw=true)
+![Chart Image](https://github.com/FGaribot/Inventory_with_chartjs_Back_Front/blob/master/Chart-Image.png?raw=true)
